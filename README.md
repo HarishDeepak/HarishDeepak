@@ -5,7 +5,7 @@ M.Sc. student in Information & Communication Engineering at TU Darmstadt. I work
 - **Now:** joining PEARL Lab (TU Darmstadt) as a student research assistant; volunteering on the ROS 2 software team of DARE Robotics Darmstadt
 - **Just finished:** a test bench for camera-based driver monitoring (Euro NCAP warning timing), and a PragmaBot reproduction on a Franka FR3
 - **Based in:** Darmstadt, Germany. English (professional), German (B1)
-- **Contact:** [LinkedIn](https://linkedin.com/in/harish-deepak) · [Portfolio](https://harishdeepak.github.io/portfolio/) · harish.deepak@stud.tu-darmstadt.de
+- **Contact:** [LinkedIn](https://linkedin.com/in/harish-deepak) · [Portfolio](https://harishdeepak.github.io/) · harish.deepak@stud.tu-darmstadt.de
 
 ## Projects
 
